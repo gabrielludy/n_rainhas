@@ -1,9 +1,5 @@
-Olá!
-
-Trabalho desenvolvido pelo aluno Gabriel Luiz Ferraz Souto na disciplina SIstemas Evolutivos Aplicados à Robótica ministrada pelo Prof. Eduardo Valle Simões. 
-
-ICMC USP São Carlos
+University activity developed by Gabriel Luiz Ferraz Souto in the discipline Evolutive Systems Applied to Robotics, given by the Doctor Professor Eduardo Valle Simões at ICMC USP São Carlos.
 
 
-Para rodar por favor compilar com o seguinte comando:
+To run the project, please, compile using the following commands:
 gcc nrainhas.c -o nrainhas -lglut -lGLU - lGL -lm
